@@ -32,29 +32,3 @@ Online voting is a trend that is gaining momentum and trend in modern society. I
 3. Remix IDE 
 
 Programming : Solidity 
-
-
-_________________________________________________________________________________________________________________________________________________
-
-
-## Hi there, 
-
-**You Can use this Beautiful Project for your college Project and get good marks too.**
-
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
-
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
-
-### More Blockchain Projects : https://vatshayan.medium.com/top-3-blockchain-final-year-projects-e910c25403a4
